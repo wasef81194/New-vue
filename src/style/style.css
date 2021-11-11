@@ -1,0 +1,27 @@
+.loader, .cardsingle{
+    position: absolute;
+    top: 50% ;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.cardsingle{
+    width: 480px !important;
+}
+.card-img-top{
+    max-height: 460px;
+}
+.inline img{
+    float:left !important;
+    margin-top: -5px;
+}
+.inline {
+    float:right ;
+}
+
+a{
+    text-decoration: none !important;
+}
+.cardhome{
+    display: inline-block !important;
+}
+
